@@ -1,6 +1,14 @@
 # iot-application
 :bulb: Aplicação IoT para ligar/desligar um LED
 
+## :rocket: Tecnologias utilizadas
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [MIT App Inventor 2](https://appinventor.mit.edu/)
+- [Arduino](https://www.arduino.cc/)
+{...}
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
